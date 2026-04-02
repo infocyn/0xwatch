@@ -1,0 +1,170 @@
+{
+  "example.com:A": {
+    "records": [
+      "104.18.26.120",
+      "104.18.27.120"
+    ],
+    "history": [
+      [
+        "104.18.26.120",
+        "104.18.27.120"
+      ]
+    ]
+  },
+  "example.com:AAAA": {
+    "records": [
+      "2606:4700::6812:1a78",
+      "2606:4700::6812:1b78"
+    ],
+    "history": [
+      [
+        "2606:4700::6812:1a78",
+        "2606:4700::6812:1b78"
+      ]
+    ]
+  },
+  "example.com:MX": {
+    "records": [
+      "0 ."
+    ],
+    "history": [
+      [
+        "0 ."
+      ]
+    ]
+  },
+  "example.com:NS": {
+    "records": [
+      "elliott.ns.cloudflare.com.",
+      "hera.ns.cloudflare.com."
+    ],
+    "history": [
+      [
+        "elliott.ns.cloudflare.com.",
+        "hera.ns.cloudflare.com."
+      ]
+    ]
+  },
+  "example.com:TXT": {
+    "records": [
+      "\"_k2n1y4vw3qtb4skdx9e7dxt97qrmmq9\"",
+      "\"v=spf1 -all\""
+    ],
+    "history": [
+      [
+        "\"_k2n1y4vw3qtb4skdx9e7dxt97qrmmq9\"",
+        "\"v=spf1 -all\""
+      ]
+    ]
+  },
+  "example.org:A": {
+    "records": [
+      "104.18.2.24",
+      "104.18.3.24"
+    ],
+    "history": [
+      [
+        "104.18.2.24",
+        "104.18.3.24"
+      ]
+    ]
+  },
+  "example.org:AAAA": {
+    "records": [
+      "2606:4700::6812:218",
+      "2606:4700::6812:318"
+    ],
+    "history": [
+      [
+        "2606:4700::6812:218",
+        "2606:4700::6812:318"
+      ]
+    ]
+  },
+  "example.org:MX": {
+    "records": [
+      "0 ."
+    ],
+    "history": [
+      [
+        "0 ."
+      ]
+    ]
+  },
+  "example.org:NS": {
+    "records": [
+      "katelyn.ns.cloudflare.com.",
+      "mitch.ns.cloudflare.com."
+    ],
+    "history": [
+      [
+        "katelyn.ns.cloudflare.com.",
+        "mitch.ns.cloudflare.com."
+      ]
+    ]
+  },
+  "example.org:TXT": {
+    "records": [
+      "\"_uyh0vgv5ukyofwj3ddwspnni01vmlyy\"",
+      "\"v=spf1 -all\""
+    ],
+    "history": [
+      [
+        "\"_uyh0vgv5ukyofwj3ddwspnni01vmlyy\"",
+        "\"v=spf1 -all\""
+      ]
+    ]
+  },
+  "www.alrmcargo.com:A": {
+    "records": [
+      "78.46.32.66"
+    ],
+    "history": [
+      [
+        "78.46.32.66"
+      ]
+    ]
+  },
+  "www.alrmcargo.com:CNAME": {
+    "records": [
+      "alrmcargo.com."
+    ],
+    "history": [
+      [
+        "alrmcargo.com."
+      ]
+    ]
+  },
+  "www.alrmcargo.com:MX": {
+    "records": [
+      "0 alrmcargo.com."
+    ],
+    "history": [
+      [
+        "0 alrmcargo.com."
+      ]
+    ]
+  },
+  "www.alrmcargo.com:NS": {
+    "records": [
+      "ns1.box-dns.com.",
+      "ns2.box-dns.com."
+    ],
+    "history": [
+      [
+        "ns1.box-dns.com.",
+        "ns2.box-dns.com."
+      ]
+    ]
+  },
+  "www.alrmcargo.com:TXT": {
+    "records": [
+      "\"v=spf1 ip4:78.46.32.66 ip4:64.176.168.192 ip4:129.159.135.147 ip4:129.159.144.118 ip4:129.159.144.118 +mx +a +ip4:49.12.2.93 ~all\""
+    ],
+    "history": [
+      [
+        "\"v=spf1 ip4:78.46.32.66 ip4:64.176.168.192 ip4:129.159.135.147 ip4:129.159.144.118 ip4:129.159.144.118 +mx +a +ip4:49.12.2.93 ~all\""
+      ]
+    ]
+  }
+}

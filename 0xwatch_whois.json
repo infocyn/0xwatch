@@ -1,0 +1,32 @@
+{
+  "example.com": {
+    "registrar": "reserved-internet assigned numbers authority",
+    "org": "",
+    "nameservers": [
+      "elliott.ns.cloudflare.com",
+      "hera.ns.cloudflare.com"
+    ],
+    "status": "clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited",
+    "expiration": "2026-08-13"
+  },
+  "example.org": {
+    "registrar": "icann",
+    "org": "",
+    "nameservers": [
+      "katelyn.ns.cloudflare.com",
+      "mitch.ns.cloudflare.com"
+    ],
+    "status": "serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited",
+    "expiration": "2026-08-30"
+  },
+  "www.alrmcargo.com": {
+    "registrar": "enom, inc.",
+    "org": "redacted for privacy",
+    "nameservers": [
+      "ns1.box-dns.com",
+      "ns2.box-dns.com"
+    ],
+    "status": "clienttransferprohibited https://icann.org/epp#clienttransferprohibited",
+    "expiration": "2026-08-21"
+  }
+}

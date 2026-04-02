@@ -1,0 +1,8 @@
+{
+  "clearnet": [
+    "example.com",
+    "example.org",
+    "www.alrmcargo.com"
+  ],
+  "onion": []
+}

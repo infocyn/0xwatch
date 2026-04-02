@@ -1,0 +1,38 @@
+{
+  "example.com": {
+    "score": 10,
+    "signals": [
+      {
+        "signal": "ip_change",
+        "points": 10,
+        "description": "IPs: 104.18.26.120, 104.18.27.120",
+        "time": "2026-04-02T09:48:42.688485+00:00"
+      }
+    ],
+    "updated": "2026-04-02T09:48:42.688485+00:00"
+  },
+  "example.org": {
+    "score": 10,
+    "signals": [
+      {
+        "signal": "ip_change",
+        "points": 10,
+        "description": "IPs: 104.18.2.24, 104.18.3.24",
+        "time": "2026-04-02T09:48:42.692222+00:00"
+      }
+    ],
+    "updated": "2026-04-02T09:48:42.692222+00:00"
+  },
+  "www.alrmcargo.com": {
+    "score": 10,
+    "signals": [
+      {
+        "signal": "ip_change",
+        "points": 10,
+        "description": "IPs: 78.46.32.66",
+        "time": "2026-04-02T09:53:46.938624+00:00"
+      }
+    ],
+    "updated": "2026-04-02T09:53:46.938624+00:00"
+  }
+}

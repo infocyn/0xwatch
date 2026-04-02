@@ -1,0 +1,24 @@
+{
+  "example.org": {
+    "status_code": 200,
+    "server": "cloudflare",
+    "body_hash": "fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a",
+    "redirect_final": "https://example.org/",
+    "redirect_count": 0,
+    "content_length": 528,
+    "seized_body": false,
+    "seized_redirect": false,
+    "scheme": "https"
+  },
+  "example.com": {
+    "status_code": 200,
+    "server": "cloudflare",
+    "body_hash": "fb91d75a6bb430787a61b0aec5e374f580030f2878e1613eab5ca6310f7bbb9a",
+    "redirect_final": "https://example.com/",
+    "redirect_count": 0,
+    "content_length": 528,
+    "seized_body": false,
+    "seized_redirect": false,
+    "scheme": "https"
+  }
+}
